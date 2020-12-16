@@ -90,7 +90,7 @@
     "markdown-loader-jest": "0.1.1",
     "postcss": "^8.1.6",
     "postcss-cli": "^8.2.0",
-    "postcss-import": "^13.0.0",
+    "postcss-import": "^14.0.0",
     "preact-render-to-json": "3.6.6",
     "prettier": "1.19.1",
     "prettier-eslint-cli": "5.0.0",
